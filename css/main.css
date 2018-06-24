@@ -1,0 +1,11 @@
+.newClass {
+	width: 100%;
+	height: 100vh;
+	background-color: lightblue;
+}
+.toUpper {
+	text-transform: uppercase;
+}
+#block {
+	font-size: 50px;
+}
